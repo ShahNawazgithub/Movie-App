@@ -4,9 +4,8 @@ API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=53db10d7db4c7263d0
 
 react boostrap = npm i react-bootstrap
 
-browser router = npm i react-router-dom
 
-infinite scroll = npm i react-infinite-scroll-component;
+
 
 
 
